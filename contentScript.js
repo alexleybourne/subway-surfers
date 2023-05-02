@@ -10,10 +10,11 @@ chrome.storage.local.get('videoVisible', (result) => {
     videoWrapper.style.transition = 'bottom 0.5s ease-in-out';
 
     videoWrapper.innerHTML = `
-      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ChBg4aowzX8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe id="youtube-video" width="100%" height="100%" src="https://www.youtube.com/embed/ChBg4aowzX8?&autoplay=1&amp;controls=0&amp;start=1" title="YouTube video player" frameborder="0" allow="autoplay; picture-in-picture" allowfullscreen></iframe>
     `;
 
     document.documentElement.style.height = '50%';
+    document.body.style.height = '50%';
     document.body.style.overflowY = 'scroll';
     document.body.appendChild(videoWrapper);
 
