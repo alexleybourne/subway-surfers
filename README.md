@@ -5,13 +5,19 @@
 
 A chrome extension to make the internet less boring 🥱
 
-Have you ever been watching a youtube video and wished it had subway surfers playing underneath it just like TikTok? 
+Have you ever been watching a youtube video and wished it had subway surfers playing underneath it just like TikTok?
 
 Well now you can! 🤩
 
-Whats even better is it works on any website! Say goodbye to boring articles and tedious online tasks like paying bills. The future is now 🚀
+Whats even better is it works on any website! Say goodbye to boring articles and tedious online tasks like paying bills.
+
+The future is now 🚀
+
+![Before and After](https://raw.githubusercontent.com/alexleybourne/subway-surfers/main/images/before-and-after.png)
 
 This is made as a parody and was inspired by Pouya's great tweet here: https://twitter.com/Saadeghi/status/1653143976784941056?s=20
+
+My Theo approved ✅ Tweet: https://twitter.com/AlexLeybourne/status/1653385767975280643
 
 ## If you want to install this for some reason here's how:
 
@@ -20,3 +26,5 @@ This is made as a parody and was inspired by Pouya's great tweet here: https://t
 3. Click on `Load unpacked` in the top left-hand side
 4. Select the folder with the extensions code
 5. Now you can watch subway surfers everywhere...
+
+I doubt this will be accepted into the chrome extension store 😆
